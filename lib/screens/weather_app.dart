@@ -3,7 +3,7 @@ import 'package:flutter_svg/svg.dart';
 import 'package:transformer_page_view/transformer_page_view.dart';
 
 import '../models/weather_locations.dart';
-import '../widgets/buildin_transform.dart';
+import '../widgets/building_transform.dart';
 import '../widgets/single_weather.dart';
 import '../widgets/slider_dot.dart';
 
